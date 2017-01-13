@@ -1,0 +1,70 @@
+
+#weather{
+  background-color:rgba(211, 211, 211, 0.29);
+  padding:5%;
+  box-shadow: 1px 1px 1px #000;
+  top:50%;
+  left: 50%;
+  transform: translateY(50%);
+}
+#weather h2{
+  text-align:center;
+  margin-bottom: 4%;
+  font-size:50px;
+}
+#weather ul li{
+  display: inline;
+  font-size: 150%;
+  text-align:center;
+}
+.bg-img{
+  z-index: 0;
+
+}
+.bg-img::before{
+	height:100%;
+	background:url('http://cdn.wallpapersafari.com/9/5/DKBg2V.jpg') no-repeat;
+	background-size:cover;
+	content: "";
+  position: fixed;
+  left: 0;
+  right: 0;
+  z-index: -1;
+	filter: blur(5px);
+  display: block;
+}
+
+#weather{
+  background-color:rgba(211, 211, 211, 0.29);
+  padding:5%;
+  box-shadow: 1px 1px 1px #000;
+  top:50%;
+  left: 50%;
+  transform: translateY(50%);
+}
+#weather h2{
+  text-align:center;
+  margin-bottom: 4%;
+  font-size:50px;
+}
+#weather ul li{
+  display: inline;
+  font-size: 150%;
+  text-align:center;
+}
+.bg-img{
+  z-index: 0;
+
+}
+.bg-img::before{
+	height:100%;
+	background:url('http://cdn.wallpapersafari.com/9/5/DKBg2V.jpg') no-repeat;
+	background-size:cover;
+	content: "";
+  position: fixed;
+  left: 0;
+  right: 0;
+  z-index: -1;
+	filter: blur(5px);
+  display: block;
+}
