@@ -58,7 +58,7 @@
 }
 .bg-img::before{
 	height:100%;
-	background:url('http://cdn.wallpapersafari.com/9/5/DKBg2V.jpg') no-repeat;
+	background:url('https://cdn.wallpapersafari.com/9/5/DKBg2V.jpg') no-repeat;
 	background-size:cover;
 	content: "";
   position: fixed;
